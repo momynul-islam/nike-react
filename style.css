@@ -39,3 +39,9 @@ body {
 .shoes-price {
   color: #fa804c;
 }
+
+.benefit-title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #363958;
+}
